@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/one"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item android:id="@+id/two"
+        android:title="Services"
+        android:icon="@drawable/ic_services"
+        />
+    <item android:id="@+id/three"
+        android:title="Voucher"
+        android:icon="@drawable/ic_voucher"
+        />
+    <item android:id="@+id/four"
+        android:title="Feedback"
+        android:icon="@drawable/ic_feedback"
+        />
+    <item android:id="@+id/five"
+        android:title="Contact"
+        android:icon="@drawable/ic_contact"
+        />
+
+
+</menu>
